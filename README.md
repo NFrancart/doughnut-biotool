@@ -1,4 +1,4 @@
-# doughnut-biotool
+# Doughnut-biotool
 A tool to calculate a building project's impacts on biodiversity over the entire life cycle. The tool was developed as part of the "Doughnut for Urban Development" project and manual. For more information, visit https://www.home.earth/doughnut 
 
 The tool calculates the project's impacts on ecosystems as a local loss of species. It takes into account impacts caused by the transformation and occupation of land on the building site (direct impacts), as well as the use of construction materials (indirect impacts).
