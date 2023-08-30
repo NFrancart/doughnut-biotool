@@ -16,7 +16,7 @@ They are not accurate values and should not be used to perform actual calculatio
 Your first step should be to replace these values with actual data from the Ecoinvent database, if you have an Ecoinvent license, or another reliable database.
 You can find the Ecoinvent database at https://ecoinvent.org/
 You can use the Python script "biotool_importer.py" to automatically extract all the values you need from the Ecoinvent database:
-- First, download the biodiversity tool, preferably the "detailed version" from https://www.home.earth/doughnut
+- First, download the biodiversity tool, preferably the "detailed version".
 - Download the Ecoinvent Excel file named "Cut-off cumulative LCIA v3.9.1.xlsx" from https://ecoquery.ecoinvent.org
 - Make sure you have Python v3.10 or later installed, as well as the Pandas package: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 - Edit the "biotool_importer.py" file to replace the file paths with the right paths for the biodiversity tool, the ecoinvent Excel file, and the path where
